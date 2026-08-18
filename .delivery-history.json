@@ -1972,6 +1972,14 @@
     {
       "fingerprint": "78ca5bb120c739362c26b4db4ba960b6b81aecf84bb1f2ebd01abe3042c2b67e",
       "deliveredAt": "2026-08-17T22:39:23.426Z"
+    },
+    {
+      "fingerprint": "0e08931dd34f04745abcb645f14b8b04fbc1cca60ea5cfa2bca782272f605471",
+      "deliveredAt": "2026-08-18T22:39:55.168Z"
+    },
+    {
+      "fingerprint": "896bfebd28625b6be569123b51c2fcc057f12d78138810775e0be58c4a1b1d8e",
+      "deliveredAt": "2026-08-18T22:39:55.168Z"
     }
   ]
 }
