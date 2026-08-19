@@ -1980,6 +1980,14 @@
     {
       "fingerprint": "896bfebd28625b6be569123b51c2fcc057f12d78138810775e0be58c4a1b1d8e",
       "deliveredAt": "2026-08-18T22:39:55.168Z"
+    },
+    {
+      "fingerprint": "e5e342ee68782f457ad548fdb1f9cde41bf1ec9a1f291c4ee4cd202ac18f581f",
+      "deliveredAt": "2026-08-19T22:39:34.626Z"
+    },
+    {
+      "fingerprint": "3f82c1cdc01c5dca6fe1b2e5376ae6904ba4f34440ea9f70fe1086c2a23bb1b0",
+      "deliveredAt": "2026-08-19T22:39:34.626Z"
     }
   ]
 }
