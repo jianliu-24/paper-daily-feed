@@ -2880,6 +2880,14 @@
     {
       "fingerprint": "240f9cce3648e90941c7d130d9cecab868a01385c9fcd12d30a931da907de9fb",
       "deliveredAt": "2026-11-01T01:07:39.736Z"
+    },
+    {
+      "fingerprint": "e23eea863222c146c870ca7c9302743f94558c7fb99a66f3e3f861778513b5aa",
+      "deliveredAt": "2026-11-03T03:28:11.899Z"
+    },
+    {
+      "fingerprint": "0da97eac799a14577c01cfe3741938619cfdfac50eff2ba44e2c807e86d76048",
+      "deliveredAt": "2026-11-03T03:28:11.899Z"
     }
   ]
 }
