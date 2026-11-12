@@ -2,46 +2,6 @@
   "version": 1,
   "delivered": [
     {
-      "fingerprint": "36fe676bc5a3fc05a4f993483856d47fbd83ce531147d8e409c4435a95e6917c",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "fa19bd9633b90c47105cce04e771f4102e3943e0019b4ad5e312841327f7728a",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "fdda978fa3498e9b67591c22ea7fc1299b5bcb0a59edc4c2744db43a7147d9ff",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "dec539eabdaa40b19d0021a9436031d77b5820355135c72ff2473de5cd0bb47b",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "97079dbc6cf58673ac50c3d8f9ef36d0aaf954eb725baf445a61e60e7870cf24",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "3b8e872c6a55f89730266f87724b03f28cf3a59920ce0bccb6ba7fce4fd989cd",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "630a463473f19bdc63d1c54c0dfcab6f1d8b7abd0b0468cbb74ec87cd71af79d",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "402b40d8315023f1df48e2b322f96bce0887dfb88d64707ca42862978b2502f9",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "38bcc8f6146cfca65ad372e2b0c32202e4e157762d33bd17e67d95e5eab066ed",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
-      "fingerprint": "52b95cf79b4136a331976b53aafb5cc7445b5a67b35aa673fc80c0d07c28e11d",
-      "deliveredAt": "2026-05-15T23:11:23.459Z"
-    },
-    {
       "fingerprint": "1e69d0bc710658648e0da57d1a299962c6d2740f25a07644867a0a3c86b0fc27",
       "deliveredAt": "2026-05-16T23:07:57.330Z"
     },
@@ -2768,6 +2728,10 @@
     {
       "fingerprint": "3445268c832ce43f4c8222f07f3bc9afd341a14ef7fdba02bad3a1b741a21d31",
       "deliveredAt": "2026-11-11T01:55:31.790Z"
+    },
+    {
+      "fingerprint": "bba1816d3f7baa91bae081ac9bdedb0dee3634eaa1d7a42a96bea98011b0c6d3",
+      "deliveredAt": "2026-11-12T02:57:05.018Z"
     }
   ]
 }
